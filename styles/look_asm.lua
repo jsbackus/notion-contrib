@@ -16,7 +16,7 @@ de.defstyle("*", {
     spacing = 0,
     -- border_style = "elevated",
     border_style = "ridge",
-    font = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     text_align = "center",
 })
 
@@ -92,7 +92,7 @@ de.defstyle("tab", {
         padding_colour= "#304050",
         foreground_colour = "#a0a0a0",
     }),
-    font = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     border_style = "ridge",
     padding_pixels = 0,
     shadow_pixels = 0,
@@ -122,7 +122,7 @@ de.defstyle("tab-menuentry", {
 
 de.defstyle("tab-menuentry-big", {
     based_on = "tab-menuentry",
-    font = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     border_style = "inlaid",
     shadow_pixels = 0,
     highlight_pixels = 0,

@@ -16,7 +16,7 @@ de.defstyle("*", {
     highlight_pixels = 1,
     shadow_pixels = 1,
     border_style = "elevated",
-    font = "-*-helvetica-medium-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     text_align = "center",
     transparent_background = false,
 })
@@ -55,7 +55,7 @@ de.defstyle("frame-tiled", {
 
 de.defstyle("tab", {
     based_on = "*",
-    font = "-*-helvetica-medium-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     de.substyle("active-selected", {
         shadow_colour = "#304050",
         highlight_colour = "#708090",

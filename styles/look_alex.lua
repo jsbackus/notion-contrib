@@ -49,7 +49,7 @@ de.defstyle("frame-floatframe", {
 
 de.defstyle("tab", {
     based_on = "*",
-    font = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     de.substyle("active-selected", {
         shadow_colour = "#00aa00",
         highlight_colour = "#00aa00",

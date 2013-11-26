@@ -61,7 +61,7 @@ de.defstyle("frame-floatframe", {
 
 de.defstyle("tab", {
                    based_on = "*",
-                   font = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*",
+                   font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
                    de.substyle("active-selected", {
                                   shadow_colour = "#8888aa",
                                   highlight_colour = "#333366",
@@ -147,7 +147,7 @@ de.defstyle("tab-menuentry-big", {
 
 de.defstyle("input", {
                    based_on = "*",
-                   font = "-Adobe-Courier-Medium-R-Normal--12-120-75-75-M-70-ISO8859-1",
+                   font = "-Adobe-Courier-Medium-R-Normal--11-*-*-*-M-*-ISO8859-1",
                    shadow_colour = "#777777",
                    highlight_colour = "#eeeeee",
                    background_colour = "#aaaaaa",

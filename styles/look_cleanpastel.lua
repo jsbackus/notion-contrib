@@ -14,7 +14,7 @@ de.defstyle("*", {
     shadow_pixels = 1,
     spacing = 0,
     border_style = "elevated",
-    font = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     text_align = "center",
 })
 
@@ -36,7 +36,7 @@ de.defstyle("frame-ionframe", {
 
 de.defstyle("tab", {
     based_on = "*",
-    font = "-*-helvetica-bold-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-helvetica-bold-r-normal-*-11-*-*-*-*-*-*-*",
     de.substyle("active-selected", {
         shadow_colour = "#e0f0e0",
         highlight_colour = "#b0c0b6",
@@ -75,7 +75,7 @@ de.defstyle("tab-menuentry", {
 
 de.defstyle("tab-menuentry-big", {
     based_on = "tab-menuentry",
-    font = "-*-helvetica-medium-r-normal-*-18-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-17-*-*-*-*-*-*-*",
     padding_pixels = 10,
 })
 

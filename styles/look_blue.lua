@@ -45,7 +45,7 @@ de.defstyle("frame-tiled", {
 
 de.defstyle("tab", {
     based_on = "*",
-    font = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     
     de.substyle("active-selected", {
         highlight_colour = "#9999bb",

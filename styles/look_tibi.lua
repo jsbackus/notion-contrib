@@ -106,7 +106,7 @@ de.defstyle("tab", {
     foreground_colour = "black",
     background_colour = my_neutral_color_dimmed,
     text_align = "center",
-    font = "-*-helvetica-bold-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-helvetica-bold-r-normal-*-11-*-*-*-*-*-*-*",
     de.substyle("active-selected", {
         background_colour = my_accent_color_normal,
     }),
@@ -127,7 +127,7 @@ de.defstyle("input-edln", {
     highlight_colour = my_accent_color_dark,
     shadow_pixels = 1,
     shadow_colour = my_accent_color_dark,
-    font ="-*-lucidatypewriter-medium-r-*-*-10-*-*-*-*-*-*-*",
+    font ="-*-lucidatypewriter-medium-r-*-*-11-*-*-*-*-*-*-*",
     de.substyle("*-cursor", {
         foreground_colour = my_accent_color_bright,
         background_colour = "black",
@@ -145,7 +145,7 @@ de.defstyle("stdisp", {
     highlight_pixels = 0,
     background_colour = my_neutral_color_dark,
     foreground_colour = "white",
-    font ="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*",
+    font ="-*-lucida-medium-r-*-*-11-*-*-*-*-*-*-*",
 })
 
 de.defstyle("tab-menuentry", {
@@ -155,7 +155,7 @@ de.defstyle("tab-menuentry", {
     spacing = 0,
     shadow_pixels = 0,
     highlight_pixels = 0,
-    font = "-*-helvetica-medium-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     foreground_colour = "black",
     background_colour = my_accent_color_bright,
     de.substyle("inactive-selected", {
@@ -172,7 +172,7 @@ de.defstyle("actnotify", {
     shadow_colour = my_accent_color_normal,
     background_colour = "red",
     foreground_colour = "white",
-    font = "-*-helvetica-bold-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-helvetica-bold-r-normal-*-11-*-*-*-*-*-*-*",
 })
 
 gr.refresh()

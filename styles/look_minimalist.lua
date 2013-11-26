@@ -20,7 +20,7 @@ de.defstyle("*", {
     highlight_pixels = 1,
     shadow_pixels = 1,
     border_style = "elevated",
-    font = "-*-helvetica-medium-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     text_align = "center",
 })
 
@@ -57,7 +57,7 @@ de.defstyle("frame-floatframe", {
 
 de.defstyle("tab", {
     based_on = "*",
-    font = "-*-helvetica-medium-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     padding_pixels = 0,
     highlight_pixels = 0,
     shadow_pixels = 0,
@@ -105,7 +105,7 @@ de.defstyle("tab-frame-ionframe", {
 
 de.defstyle("tab-menuentry", {
     based_on = "tab",
-    font = "-*-helvetica-medium-r-normal-*-24-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-25-*-*-*-*-*-*-*",
     text_align = "left",
     highlight_pixels = 0,
     shadow_pixels = 0,
@@ -120,7 +120,7 @@ de.defstyle("tab-menuentry", {
 
 de.defstyle("tab-menuentry-big", {
     based_on = "tab-menuentry",
-    font = "-*-helvetica-medium-r-normal-*-24-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-25-*-*-*-*-*-*-*",
     padding_pixels = 7,
     de.substyle("inactive-unselected", {
         shadow_colour = "#dfb700",
@@ -139,7 +139,7 @@ de.defstyle("input", {
     padding_pixels = 1,
     highlight_pixels = 1,
     shadow_pixels = 1,
-    font = "-*-helvetica-medium-r-normal-*-24-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-25-*-*-*-*-*-*-*",
     border_style = "elevated",
     de.substyle("*-cursor", {
         background_colour = "#000000",

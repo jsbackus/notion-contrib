@@ -16,7 +16,7 @@ de.defstyle("*", {
     highlight_pixels = 0,
     shadow_pixels = 0,
     border_style = "ridge",
-    font = "-*-lucida-medium-r-normal-*-10-*-*-*-*-*-*-*",
+    font = "-*-lucida-medium-r-normal-*-11-*-*-*-*-*-*-*",
     text_align = "left",
     transparent_background = true,
 })
@@ -73,13 +73,13 @@ de.defstyle("tab", {
 
 de.defstyle("tab-menuentry", {
     based_on = "tabstyle",
-    font = "-*-lucida-medium-r-normal-*-12-*-*-*-*-*-*-*",
+    font = "-*-lucida-medium-r-normal-*-11-*-*-*-*-*-*-*",
     text_align = "left",
 })
 
 de.defstyle("tab-menuentry-big", {
     based_on = "tab-menuentry",
-    font = "-*-lucida-medium-r-normal-*-24-*-*-*-*-*-*-*",
+    font = "-*-lucida-medium-r-normal-*-25-*-*-*-*-*-*-*",
 })
 
 de.defstyle("input", {

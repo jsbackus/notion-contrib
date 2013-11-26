@@ -14,7 +14,7 @@ de.defstyle("*", {
     highlight_pixels = 0,
     shadow_pixels = 0,
     spacing = 1,
-    font = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*",
+    font = "-*-helvetica-medium-r-normal-*-11-*-*-*-*-*-*-*",
     text_align = "center",
 })
 
